@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Lỡ mà Nam có chọc gì Ngân',
     btnReply: 'Hay sai gì đó <3',
     reply: 'Thì nhớ tha lỗi á <33333333',
-    mess: 'Cảm ơn luôn 😘😘',
+    mess: 'Nhớ phải tha lỗi á 😘😘',
     messDesc: 'Tóm lại thì, sinh nhật vui vẻ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100005744687422' //link mess của các bạn. VD: https://m.me/nam.nodemy
